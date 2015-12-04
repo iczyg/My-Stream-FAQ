@@ -1,9 +1,13 @@
 ## The 'OMG You're cheating' and 'OMG You're using console commands' response.  Basically.
 
 Obviously, this is solely referencing singleplayer games.
+
 Whenever I want something in a singleplayer game, some questions are asked:
+
 1. How badly do I want it (Am I willing to break immersion to do it/get it?) & (How much would it bug me to progress forward without said thing?)
+
 2. How much time would it take to get it?
+
 3. Is the act of getting the thing actually fun?
 
 Keeping those questions in mind, let's put forth a simple in-game scenario:
