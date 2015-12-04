@@ -26,7 +26,7 @@ Go to certain merchants and steal a high priced item from them, then sell it bac
 Immersion is broken as all hell.  Time taken is probably longer than the water purifier thing.  Not fun. 
 
 #####Option 4 (cheat/immersion breaking):
-Open console, type "player.additem f <amount>".  Immersion breaking.  Time taken is 3 seconds.  Not fun, but due to time saved, action is trivial.  
+Open console, type "player.additem f [amount]".  Immersion breaking.  Time taken is 3 seconds.  Not fun, but due to time saved, action is trivial.  
 
 If I wanted the caps badly enough to not move forward with anything else before first acquiring the caps, is it not obvious which option is best?  
 At the core of singleplayer gaming, here are the things I care about:
