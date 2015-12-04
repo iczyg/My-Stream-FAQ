@@ -9,19 +9,19 @@ Whenever I want something in a singleplayer game, some questions are asked:
 Keeping those questions in mind, let's put forth a simple in-game scenario:
 In the game Fallout 4, I would like to increase the amount of currency (bottlecaps) I have.  For the sake of the example, let's limit my options down to 4.
 
-Option 1 (legit):
+#####Option 1 (legit):
 Roleplay a scavenger/trader and go loot some more places (that aren't story relevant) and find people to trade with in order to increase my cap count.
 Immersion is kept.  Time taken is ~hours, depending on the amount of caps I want.  This is inherently grinding, and ain't nobody got time to watch that on a stream, nor actually do it in a game.  Not fun.
 
-Option 2 (legit/immersion breaking):
+#####Option 2 (legit/immersion breaking):
 Spam water purifiers in some settlements and rotate through them collecting all the excess pure waters and selling them to the nearest trader (usually in the same settlements).
 For me, immersion is broken. In a real post apoc world, this is stupid and noone would buy their own excess water back from me.  Time taken is a few minutes, depending on the rotation I'd be doing.  Again, grindy as all hell, and not fun.  Literally just loading and trading screens everywhere.  Nobody got time for that.
 
-Option 3 (exploit/immersion breaking):
+#####Option 3 (exploit/immersion breaking):
 Go to certain merchants and steal a high priced item from them, then sell it back to them so it appears in their external inventory again, and repeat.
 Immersion is broken as all hell.  Time taken is probably longer than the water purifier thing.  Not fun. 
 
-Option 4 (cheat/immersion breaking):
+#####Option 4 (cheat/immersion breaking):
 Open console, type "player.additem f <amount>".  Immersion breaking.  Time taken is 3 seconds.  Not fun, but due to time saved, action is trivial.  
 
 If I wanted the caps badly enough to not move forward with anything else before first acquiring the caps, is it not obvious which option is best?  
