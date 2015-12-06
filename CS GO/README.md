@@ -11,6 +11,7 @@ Obviously the differences between the above average player and a pro are noticea
 
 My biggest critique on CS is probably the aiming and recoil system, a point that is valid, though I see ridiculed with 'go back to CoD' comments.  To be 'good' at CS, one must spend hours learning and compensating for ridiculous and unintuitive recoil patterns.  This is part of the 'skill' of CS, something that I would argue is inherently skill-less.  Why?  It is a skill that stands alone, and cannot be applied anywhere else.  It is literally hours wasted on something that is non-applicable to anything else.  I compare this to other aspects of competitive gaming, such as team cohesion, game sense, knowledge of meta, which are all things that are applicable elsewhere, both in other competitive environments and in life.  I believe those to be skills to be honed and focused on, and don't see a point in spending hours to practice an aiming system where its sole use case is CS GO.
 People really like the notion of "I can do something you can't, and therefore I am better", and I get that, I really do.  But how much is the skill in question really worth?
+I am in no way saying CS GO is a bad game, but I am saying it's not as good as many praise it to be.  
 
 ### Validity of your opinions?
 
