@@ -1,6 +1,7 @@
 ### Settings?
 
 config and autoexec are in this directory.  I'm not going to learn proper bunnyhopping, so spacebar will stay my sole jump key.  I have F7 and Numpad 5 bound on my mouse too.
+Mouse sensitivity is 1600 dpi, which, coupled with my ingame sens is terribly high and not optimal for CS.  However, I have a small mousepad and I'm used to running all my shooters at higher sens.
 
 ### Opinion on CS, as a whole, and compared to other FPS shooters?
 
