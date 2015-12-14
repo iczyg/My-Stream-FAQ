@@ -9,6 +9,12 @@ Power Armor HUD color changer
 Eyes of Beauty Fallout 4 Edition (Change eyes so they don't look so janky)
 Wasteland Salon (Makes hair look better)
 
+Building mods:
+SSex (More stuff to build)
+OCDecorator (Make decorations not free-move)
+Homemaker (Even more stuff to build)
+
+
 Not uploading to this directory because you should get the most updated versions on the nexus.
 
 Let me know if there's any mods you want me to check out!
