@@ -1,0 +1,46 @@
+Work in progress.  Most basic thing to note is that silencers are bad because the damage falloff multiplies further when you have to take more shots.
+Guns will also never do their stated base damage.  A 552 with 50 stated base damage against the chest of a 1x Armor enemy will do 47, which makes it a 3 shot kill gun, not a 2 shot kill.
+Still have to test if Glaz with 2 shot 2x Armor enemies with a silencer or not.
+
+Glaz's OTs-03 (180 base damage, 153 with silencer):
+Silenced 	vs 3x Armor + Rook 	- 84 to chest, 54 to arm/leg
+	 	vs 3x Armor 		- 100+ to chest, 68 to arm/leg
+		vs 2x Armor + Rook	-
+		vs 2x Armor		-
+		vs 1x Armor + Rook	-
+		vs 1x Armor		- always 100+
+Flash Hider	vs 3x Armor + Rook	- 96 to chest, 62 to arm/leg
+		vs 3x Armor		- 100+ to chest, 78 to arm/leg
+		vs 2x Armor + Rook	-
+		vs 2x Armor		-
+		vs 1x Armor + Rook	-
+		vs 1x Armor 		- always 100+
+
+MP5 (40 base damage):
+		vs 3x Armor		- 22 to chest, 14 to arm/leg
+		vs 1x Armor		- 28 to chest, 21 to arm/leg
+
+Ak-12 (47 base damage):
+		vs 3x Armor		- 35 to chest, 22 to arm, 22 to 26 to leg
+
+P90 (30 base damage):
+		vs 3x Armor + Rook	- 13 to chest, 8 to arm/leg
+		vs 2x Armor		- 18 to chest, 13 to arm/leg
+
+552 (50 base damage):
+		vs 2x Armor		- 42 to chest, 31 to arm/leg
+		vs 1x Armor		- 47 to chest, 35 to arm/leg
+
+9x19 (42 base damage):
+		vs 3x Armor		- 27 to chest, 17 or 18 to arm/leg
+		vs 1x Armor		- 34 to chest, 25 to arm/leg
+
+Aug (44 base damage):
+		vs 3x Armor + Rook	- 26 to chest, 16 to arm/leg
+		vs 3x Armor		- 33 to chest, 21 to arm, 21 to 24 to leg
+
+Smoke grenade:  15 damage every second, ignores armor.
+
+
+
+Stat finding and testing done by: iczyje & PetIllenia.
