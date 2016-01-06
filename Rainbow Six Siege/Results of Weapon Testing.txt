@@ -5,20 +5,23 @@ Still have to test if Glaz with 2 shot 2x Armor enemies with a silencer or not.
 Glaz's OTs-03 (180 base damage, 153 with silencer):
 Silenced 	vs 3x Armor + Rook 	- 84 to chest, 54 to arm/leg
 	 	vs 3x Armor 		- 100+ to chest, 68 to arm/leg
-		vs 2x Armor + Rook	-
-		vs 2x Armor		-
+		vs 2x Armor + Rook	- 
+		vs 2x Armor		- 100+ to chest, 89 to arm/leg
 		vs 1x Armor + Rook	-
 		vs 1x Armor		- always 100+
 Flash Hider	vs 3x Armor + Rook	- 96 to chest, 62 to arm/leg
 		vs 3x Armor		- 100+ to chest, 78 to arm/leg
 		vs 2x Armor + Rook	-
-		vs 2x Armor		-
+		vs 2x Armor		- always 100+
 		vs 1x Armor + Rook	-
 		vs 1x Armor 		- always 100+
 
 MP5 (40 base damage):
 		vs 3x Armor		- 22 to chest, 14 to arm/leg
+		vs 2x Armor		- 25 to chest, 18 to arm/leg
+		vs 1x Armor + Rook	- 23 to chest, 17 to arm/leg
 		vs 1x Armor		- 28 to chest, 21 to arm/leg
+		
 
 Ak-12 (47 base damage):
 		vs 3x Armor		- 35 to chest, 22 to arm, 22 to 26 to leg
@@ -40,6 +43,20 @@ Aug (44 base damage):
 		vs 3x Armor		- 33 to chest, 21 to arm, 21 to 24 to leg
 
 Smoke grenade:  15 damage every second, ignores armor.
+
+
+Glaz cannot wallbang through shields.
+Glaz cannot break walls.
+Rook armor is slightly better than having 1 extra armor value, and does not decrease speed.
+Twitch's drone does 10 dmg no matter where you hit.
+Twitch's drone has range of 5 meters.
+Drones can be collateral killed.
+Tachanka LMG does not pen shields and does not pen castlecades.
+Mute can get hurt by Smoke's smokes.
+Mute's jammer's height constraints are irrelevant for walls, but cannot block ceilings.
+Castel gets his barricades back anytime anyone on defense removes the barricade.
+Meleeing a shield freezes the shielder for about 1 second.
+
 
 
 
